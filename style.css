@@ -1,0 +1,27 @@
+body{
+    /* font-family: 'Quicksand', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.pre{
+    color: #12E0CF;
+    font-weight: 100;
+}
+.nex{
+    color: #6e43da;
+    font-weight: 100;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
